@@ -1,0 +1,8 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =6
+let g:netrw_dirhist_1='/test/Download'
+let g:netrw_dirhist_2='/test/Download/www.mplayerhq.hu'
+let g:netrw_dirhist_3='/test/Download/www.mplayerhq.hu/DOCS'
+let g:netrw_dirhist_4='/test/Download/www.mplayerhq.hu/DOCS/HTML'
+let g:netrw_dirhist_5='/test/Download/www.mplayerhq.hu/DOCS/HTML/en'
+let g:netrw_dirhist_6='/home/long'
