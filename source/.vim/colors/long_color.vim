@@ -36,4 +36,4 @@ hi Boolean ctermfg=204 ctermbg=NONE
 "
 hi Statement ctermfg=173 ctermbg=NONE
 "
-hi colorcolumn ctermfg=001 ctermbg=001
+hi colorcolumn ctermfg=223 ctermbg=001 ";                                ;;;;;;;;;;;;;;;;;;;;;;;;
