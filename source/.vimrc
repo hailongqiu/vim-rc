@@ -27,6 +27,10 @@ set t_Co=256
 "colorscheme long_color
 set colorcolumn=80
 set tags+=/home/long/Desktop/code/gtk+2.0-2.24.10/tags
-
+set tags+=/home/long/Desktop/code/gtk+3.0-3.4.2/tags
 "PYTHON代码折叠.
 set foldlevel=10 "默认展开所有代码. z + c:关闭 z + o:打开.
+
+
+"	需要先安装flake8 检测python语法
+"	easy_install flake8
