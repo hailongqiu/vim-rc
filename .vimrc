@@ -18,8 +18,8 @@ set smartindent "开启新行时使用智能自动缩进
 set expandtab "使用空格代替制表符
 set ignorecase "搜索以忽略大小写的方式进行
 
-color editplus
-set t_Co=256
+"color editplus
+"set t_Co=256
 
 set autoindent
 set cindent
@@ -64,6 +64,7 @@ Bundle 'statusline.vim'
 Bundle 'taglist.vim'
 Bundle 'pyflakes'
 Bundle 'cscope.vim'
+Bundle 'unimpaired.vim'
 "Bundle 'yuratomo/w3m.vim'
 
 
@@ -77,3 +78,13 @@ filetype plugin indent on "开启插件
 " BundleList    插件列表.
 " BundleSearch
 " BundleClean
+
+
+"C + u  上翻
+"C + d  下翻
+"S + o   上插入
+"
+"[vundle]
+"vim 插件: 
+"[ + e  上移动一行
+"] + e  下移动一行
