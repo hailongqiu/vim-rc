@@ -1,4 +1,4 @@
-"邱海龙 VIM配置文件 嵌入式开发.
+"邱海龙 VIM配置文件
 
 """""""""""""""""""""""""""""""""""""""
 " 常用设置.
@@ -78,13 +78,7 @@ filetype plugin indent on "开启插件
 " BundleList    插件列表.
 " BundleSearch
 " BundleClean
-
-
-"C + u  上翻
-"C + d  下翻
-"S + o   上插入
 "
-"[vundle]
-"vim 插件: 
-"[ + e  上移动一行
-"] + e  下移动一行
+
+" 颜色配置.
+hi LineNr ctermbg=003 ctermfg=000   gui=none " 行号颜色.
